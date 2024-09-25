@@ -1,0 +1,13 @@
+name: PR to Discord
+
+on:
+  pull_request_target:
+    types: [opened, reopened]
+
+jobs:
+  PR:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Munbin-Lee/PR-to-Discord@main
+        with:
+          discord_webhook_url: ${{ secrets.DISCORD_WEBHOOK_URL }}
