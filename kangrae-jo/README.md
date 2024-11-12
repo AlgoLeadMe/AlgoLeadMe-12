@@ -6,5 +6,6 @@
 | 2차시 | 2024.10.01 |  BruteForce  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)| [#6]https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/6|
 | 3차시 | 2024.10.05 |  BFS  | [토마토](https://www.acmicpc.net/problem/7576)| [#10]https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/10|
 | 4차시 | 2024.10.05 |  BFS  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|[#12]https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/12|
+| 7차시 | 2024.11.09 |  DP  | [1로 만들기](https://www.acmicpc.net/problem/1463)|[#12](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/24|)
 
 ---
