@@ -6,5 +6,6 @@
 | 2차시 | 2024.10.03 |    트리    |   [LCA2](https://school.programmers.co.kr/learn/courses/30/lessons/176963)    | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/7  |
 | 3차시 | 2024.10.04 |   문자열   |             [잃어버린 괄호](https://www.acmicpc.net/problem/1541)             | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/9  |
 | 4차시 | 2024.10.11 | 브루트포스 |              [영화감독 숌](https://www.acmicpc.net/problem/1436)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/15 |
+| 5차시 | 2024.11.01 |  BFS/DFS   |                [연구소](https://www.acmicpc.net/problem/14502)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/17 |
 
 ---
