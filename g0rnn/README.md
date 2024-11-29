@@ -7,5 +7,7 @@
 | 3차시 | 2024.10.04 |   문자열   |             [잃어버린 괄호](https://www.acmicpc.net/problem/1541)             | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/9  |
 | 4차시 | 2024.10.11 | 브루트포스 |              [영화감독 숌](https://www.acmicpc.net/problem/1436)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/15 |
 | 5차시 | 2024.11.01 |  BFS/DFS   |                [연구소](https://www.acmicpc.net/problem/14502)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/17 |
+| 6차시 | 2024.11.06 |    구현    |                [통계학](https://www.acmicpc.net/problem/2108)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/23 |
+| 7차시 | 2024.11.25 |    구현    |            [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)            | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/31 |
 
 ---
