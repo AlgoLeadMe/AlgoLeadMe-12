@@ -7,5 +7,7 @@
 | 3차시 | 2024.10.08 |  구현  | [약수들의 합](https://www.acmicpc.net/problem/9506) | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pulls/14) |
 | 4차시 | 2024.10.17 |  수학  | [피보나치 수 3](https://www.acmicpc.net/problem/2749) | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/16) |
 | 5차시 | 2024.11.03 |  트리  | [LCA](https://www.acmicpc.net/problem/11437) | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/19) |
+| 6차시 | 2024.11.05 |  자료구조  | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/20) |
+| 7차시 | 2024.11.12 |  구현  | [치킨 배달](https://www.acmicpc.net/problem/15686) | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/25) |
 
 ---
