@@ -11,4 +11,5 @@
 | 7차시 | 2024.11.12 |  구현  | [치킨 배달](https://www.acmicpc.net/problem/15686) | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/25) |
 | 8차시 | 2024.11.17 |  구현  | [인구 이동](https://www.acmicpc.net/problem/16234) | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/28) |
 | 9차시 | 2024.11.26 | 다이나믹 프로그래밍 | [계단 오르기](https://www.acmicpc.net/problem/2579) | [#33](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/33) |
+| 10차시 | 2024.11.30 | 자료구조 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | [#36](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/36) |
 ---
