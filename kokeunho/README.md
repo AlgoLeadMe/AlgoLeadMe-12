@@ -9,5 +9,5 @@
 | 5차시 | 2024.11.03 |  트리  | [LCA](https://www.acmicpc.net/problem/11437) | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/19) |
 | 6차시 | 2024.11.05 |  자료구조  | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | [#20](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/20) |
 | 7차시 | 2024.11.12 |  구현  | [치킨 배달](https://www.acmicpc.net/problem/15686) | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/25) |
-
+| 8차시 | 2024.11.17 |  구현  | [인구 이동](https://www.acmicpc.net/problem/16234) | [#28](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/28) |
 ---
