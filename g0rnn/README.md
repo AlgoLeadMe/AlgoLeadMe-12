@@ -9,5 +9,6 @@
 | 5차시 | 2024.11.01 |  BFS/DFS   |                [연구소](https://www.acmicpc.net/problem/14502)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/17 |
 | 6차시 | 2024.11.06 |    구현    |                [통계학](https://www.acmicpc.net/problem/2108)                 | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/23 |
 | 7차시 | 2024.11.25 |    구현    |            [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)            | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/31 |
+| 8차시 | 2024.11.29 |    문자열    |            [잠수함식별](https://www.acmicpc.net/problem/2671)            | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/35 |
 
 ---
