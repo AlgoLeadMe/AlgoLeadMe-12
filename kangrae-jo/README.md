@@ -11,5 +11,6 @@
 | 7차시 | 2024.11.09 |  DP  | [1로 만들기](https://www.acmicpc.net/problem/1463)|[#12](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/24|)
 | 8차시 | 2024.11.12 |  HEAP  | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[#27](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/27|)
 | 9차시 | 2024.11.23 |  DP  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[#30](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/30|)
+| 11차시 | 2024.12.21 |  Greedy  | [ATM](https://www.acmicpc.net/problem/11399)|[#41](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/41|)
 
 ---
