@@ -13,5 +13,7 @@
 | 9차시  | 2024.12.04 |   그리디   |               [A->B](https://www.acmicpc.net/problem/16953)               | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/39 |
 | 10차시 | 2024.12.20 |   그래프   |                [결혼식](https://www.acmicpc.net/problem/5567)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/40 |
 | 11차시 | 2024.12.30 |   dp    |               [기타리스트](https://www.acmicpc.net/problem/1495)               | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/49 |
+| 12차시 | 2025.01.02 |   bfs   |               [회장뽑기](https://www.acmicpc.net/problem/2660)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/50 |
+
 
 ---
