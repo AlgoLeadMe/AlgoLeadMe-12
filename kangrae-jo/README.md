@@ -8,9 +8,12 @@
 | 4차시 | 2024.10.05 |  BFS  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|[#12](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/12)|
 | 5차시 | 2024.11.02 |  DP  | [경쟁 배타의 원리](https://level.goorm.io/exam/162070/%EA%B2%BD%EC%9F%81-%EB%B0%B0%ED%83%80%EC%9D%98-%EC%9B%90%EB%A6%AC/quiz/1)|[#18](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/18)|
 | 6차시 | 2024.11.05 |  Greedy  | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)| [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/21)|
-| 7차시 | 2024.11.09 |  DP  | [1로 만들기](https://www.acmicpc.net/problem/1463)|[#12](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/24|)
-| 8차시 | 2024.11.12 |  HEAP  | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[#27](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/27|)
-| 9차시 | 2024.11.23 |  DP  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[#30](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/30|)
+| 7차시 | 2024.11.09 |  DP  | [1로 만들기](https://www.acmicpc.net/problem/1463)|[#24](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/24)|
+| 8차시 | 2024.11.12 |  HEAP  | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|[#27](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/27)|
+| 9차시 | 2024.11.23 |  DP  | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|[#30](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/30)|
+| 10차시 | 2024.11.30 |  누적합  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[#37](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/37)|
+| 11차시 | 2024.12.21 |  Greedy  | [ATM](https://www.acmicpc.net/problem/11399)|[#41](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/41)|
+| 12차시 | 2024.12.24 |  HEAP  | [크리스마스 선물](https://www.acmicpc.net/problem/14235)|[#44](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/44)|
 | 13차시 | 2024.12.28 |  Graph  | [줄 세우기](https://www.acmicpc.net/problem/2252)|[#46](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/46)|
 
 ---
