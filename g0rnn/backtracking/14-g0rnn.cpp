@@ -17,7 +17,7 @@ int chess[15] = {0};
 bool canMoveTo(int col, int row) {
 	for (int i = 0; i < n; i++) {
 		if (chess[i] == EMPTY) continue;
-		if (abs(col - i) == row - chess[i]) return false; // 대각선인 경우
+		if (abs(col - i) == row - chess[i]) return false; // 대각선인 경우 (row는 항상 chess[i]보다 큼)
 		if (i == col) return false; // 같은 열인 경우
 	}
 	return true;
