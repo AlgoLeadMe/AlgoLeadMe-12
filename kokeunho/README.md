@@ -15,4 +15,5 @@
 | 11차시 | 2024.12.21 | 그리디 알고리즘 | [회의실 배정](https://www.acmicpc.net/problem/1931) | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/43) |
 | 12차시 | 2024.12.25 | 그리디 알고리즘 | [크게 만들기](https://www.acmicpc.net/problem/2812) | [#45](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/45) |
 | 13차시 | 2024.12.30 | 그래프 탐색 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/47) |
+| 14차시 | 2025.01.08 | 그래프 탐색 | [미로만들기](https://www.acmicpc.net/problem/2665) | [#55](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/55) |
 ---
