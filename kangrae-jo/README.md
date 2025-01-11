@@ -15,5 +15,5 @@
 | 11차시 | 2024.12.21 |  Greedy  | [ATM](https://www.acmicpc.net/problem/11399)|[#41](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/41)|
 | 12차시 | 2024.12.24 |  HEAP  | [크리스마스 선물](https://www.acmicpc.net/problem/14235)|[#44](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/44)|
 | 13차시 | 2024.12.28 |  Graph  | [줄 세우기](https://www.acmicpc.net/problem/2252)|[#46](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/46)|
-
+| 15차시 | 2024.12.28 |  구현  | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=cpp)|[#57](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/57)|
 ---
