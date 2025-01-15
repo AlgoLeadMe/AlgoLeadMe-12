@@ -3,3 +3,4 @@
 /.vscode
 cmake-build-debug/
 CMakeLists.txt
+.clang-tidy
