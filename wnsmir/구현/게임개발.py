@@ -29,6 +29,7 @@ while True:
         count += 1
         x, y = nx, ny
         turn_time = 0
+        continue
     else:
         turn_time += 1
 
