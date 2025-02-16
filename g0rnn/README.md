@@ -16,16 +16,9 @@
 | 12차시 | 2025.01.02 |   bfs   |               [회장뽑기](https://www.acmicpc.net/problem/2660)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/50 |
 | 13차시 | 2025.01.05 |  백트래킹   |             [스타트와 링크](https://www.acmicpc.net/problem/14889)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/52 |
 | 14차시 | 2025.01.07 |  백트레킹   |              [N-Queen](https://www.acmicpc.net/problem/9663)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/53 |
-| 15차시 | 2025.01.15 |  백트래킹   |                [알파벳](https://www.acmicpc.net/problem/1987)                | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/60 |
-
-
-
-
-
-
-
-
+| 15차시 | 2025.01.05 |  백트래킹   |             [알파벳](https://www.acmicpc.net/problem/1987)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/60 |
 | 16차시 | 2025.01.18 |  다익스트라   |             [최단경로](https://www.acmicpc.net/problem/1753)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/62 |
+| 17차시 | 2025.01.31 |  dp   |             [설탕 배달](https://www.acmicpc.net/problem/2839)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/68 |
 
 
 ---
