@@ -21,4 +21,5 @@
 | 17차시 | 2025.01.31 |  dp   |             [설탕 배달](https://www.acmicpc.net/problem/2839)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/68 |
 | 18차시 | 2025.02.09 |  simulation   |             [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/70 |
 
+
 ---
