@@ -16,5 +16,9 @@
 | 12차시 | 2024.12.24 |  HEAP  | [크리스마스 선물](https://www.acmicpc.net/problem/14235)|[#44](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/44)|
 | 13차시 | 2024.12.28 |  Graph  | [줄 세우기](https://www.acmicpc.net/problem/2252)|[#46](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/46)|
 | 14차시 | 2024.12.31 |  Two Pointer  | [두 용액](https://www.acmicpc.net/problem/2470)|[#48](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/48)|
+| 15차시 | 2024.01.11 |  구현  | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=cpp)|[#57](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/57)|
+| 16차시 | 2024.01.14 |  BinarySearch  | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|[#59](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/59)|
+| 17차시 | 2024.01.18 |  Simulation  | [충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|[#61](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/61)|
+| 18차시 | 2024.02.04 |  Queue | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[#69](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/69)|
 | 19차시 | 2024.02.11 |  Backtracking  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/72)|
 ---
