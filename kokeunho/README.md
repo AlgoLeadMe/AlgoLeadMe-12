@@ -22,4 +22,5 @@
 | 18차시 | 2025.02.11 | 구현 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [#73](github.com/AlgoLeadMe/AlgoLeadMe-12/pull/73) |
 | 19차시 | 2025.02.14 | 구현 | [테트로미노](https://www.acmicpc.net/problem/14500) | [#74](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/74) |
 | 20차시 | 2025.02.25 | 그래프 탐색 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [#76](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/76) |
+| 21차시 | 2025.03.04 | 그래프 탐색 | [게임](https://www.acmicpc.net/problem/1584) | [#83](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/83) |
 ---
