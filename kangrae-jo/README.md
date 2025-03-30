@@ -19,5 +19,9 @@
 | 15차시 | 2024.01.11 |  구현  | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=cpp)|[#57](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/57)|
 | 16차시 | 2024.01.14 |  BinarySearch  | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|[#59](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/59)|
 | 17차시 | 2024.01.18 |  Simulation  | [충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|[#61](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/61)|
+| 18차시 | 2024.02.04 |  Queue | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[#69](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/69)|
+| 19차시 | 2024.02.11 |  Backtracking  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/72)|
+| 20차시 | 2024.02.24 |  BinarySearch  | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|[#75](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/75)|
+| 21차시 | 2024.03.01 |  HEAP  | [절댓값 힙](https://www.acmicpc.net/problem/11286)|[#80](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/80)|
 | 22차시 | 2024.03.04 |  Prefix Sum  | [체스판 다시 칠하기2](https://www.acmicpc.net/problem/25682)|[#81](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/81)|
 ---
