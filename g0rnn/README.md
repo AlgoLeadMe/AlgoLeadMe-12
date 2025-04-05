@@ -23,6 +23,7 @@
 | 19차시 | 2025.02.25 |  bfs   |             [숨바꼭질 3](https://school.programmers.co.kr/learn/courses/30/lessons/13549)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/76 |
 | 20차시 | 2025.02.27 |  simulation   |             [미세먼지 안녕!](https://school.programmers.co.kr/learn/courses/30/lessons/17144)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/79 |
 | 21차시 | 2025.03.03 |  binary-search   |             [나무 자르기](https://www.acmicpc.net/problem/2805)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/82 |
+| 22차시 | 2025.03.23 |  binary-search   |             [가장 긴 증가하는 부분 수ㄹ](https://www.acmicpc.net/problem/12015)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/87 |
 
 
 ---
