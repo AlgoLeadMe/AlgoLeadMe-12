@@ -23,5 +23,6 @@
 | 19차시 | 2024.02.11 |  Backtracking  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/72)|
 | 20차시 | 2024.02.24 |  BinarySearch  | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|[#75](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/75)|
 | 21차시 | 2024.03.01 |  HEAP  | [절댓값 힙](https://www.acmicpc.net/problem/11286)|[#80](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/80)|
+| 24차시 | 2024.04.07 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|[#95](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/95)|
 
 ---
