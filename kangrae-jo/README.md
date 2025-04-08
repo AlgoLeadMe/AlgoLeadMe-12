@@ -24,4 +24,5 @@
 | 20차시 | 2024.02.24 |  BinarySearch  | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|[#75](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/75)|
 | 21차시 | 2024.03.01 |  HEAP  | [절댓값 힙](https://www.acmicpc.net/problem/11286)|[#80](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/80)|
 | 22차시 | 2024.03.04 |  Prefix Sum  | [체스판 다시 칠하기2](https://www.acmicpc.net/problem/25682)|[#81](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/81)|
+| 23차시 | 2024.03.25 |  HEAP  | [회전하는 큐](https://www.acmicpc.net/problem/1021)|[#88](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/88)|
 ---
