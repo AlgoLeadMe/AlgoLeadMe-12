@@ -25,4 +25,5 @@
 | 21차시 | 2025.03.04 | 그래프 탐색 | [게임](https://www.acmicpc.net/problem/1584) | [#83](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/83) |
 | 22차시 | 2025.03.16 | 자료구조 | [Nearest] | [#86](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/86) |
 | 23차시 | 2025.04.02 | 그리디 알고리즘 | [이사] | [#87](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/91) |
+| 24차시 | 2025.04.30 | 분할 정복 | [행렬 제곱] | [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/98) |
 ---
