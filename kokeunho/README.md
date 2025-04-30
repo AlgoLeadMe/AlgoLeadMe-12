@@ -19,4 +19,10 @@
 | 15차시 | 2025.01.12 | 조합론 | [격자상의 경로](https://www.acmicpc.net/problem/10164) | [#58](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/58) |
 | 16차시 | 2025.01.19 | 그래프 탐색 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [#63](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/63) |
 | 17차시 | 2025.01.20 | 그래프 탐색 | [안전 영역](https://www.acmicpc.net/problem/2468) | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/64) |
+| 18차시 | 2025.02.11 | 구현 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | [#73](github.com/AlgoLeadMe/AlgoLeadMe-12/pull/73) |
+| 19차시 | 2025.02.14 | 구현 | [테트로미노](https://www.acmicpc.net/problem/14500) | [#74](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/74) |
+| 20차시 | 2025.02.25 | 그래프 탐색 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [#76](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/76) |
+| 21차시 | 2025.03.04 | 그래프 탐색 | [게임](https://www.acmicpc.net/problem/1584) | [#83](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/83) |
+| 22차시 | 2025.03.16 | 자료구조 | [Nearest] | [#86](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/86) |
+| 23차시 | 2025.04.02 | 그리디 알고리즘 | [이사] | [#87](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/91) |
 ---
