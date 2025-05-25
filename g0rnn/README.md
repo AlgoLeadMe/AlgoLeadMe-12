@@ -25,4 +25,5 @@
 | 21차시 | 2025.03.03 |  binary-search   |             [나무 자르기](https://www.acmicpc.net/problem/2805)              | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/82 |
 | 22차시 | 2025.03.23 | binary-search | [가장 긴 증가하는 부분 수ㄹ](https://www.acmicpc.net/problem/12015) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/87 |
 | 23차시 | 2025.03.30 | dp | [동물원](https://www.acmicpc.net/problem/1309) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/89 |
+| 24차시 | 2025.05.12 | 구현 | [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/101 |
 ---
