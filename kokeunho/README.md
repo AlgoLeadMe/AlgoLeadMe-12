@@ -26,4 +26,5 @@
 | 22차시 | 2025.03.16 | 자료구조 | [Nearest] | [#86](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/86) |
 | 23차시 | 2025.04.02 | 그리디 알고리즘 | [이사] | [#87](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/91) |
 | 24차시 | 2025.04.30 | 분할 정복 | [행렬 제곱] | [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/98) |
+| 25차시 | 2025.05.11 | 그리디 알고리즘 | [팔](https://www.acmicpc.net/problem/1105) | [#100](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/100) |
 ---
