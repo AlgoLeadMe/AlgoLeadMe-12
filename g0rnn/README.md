@@ -26,6 +26,4 @@
 | 22차시 | 2025.03.23 | binary-search | [가장 긴 증가하는 부분 수ㄹ](https://www.acmicpc.net/problem/12015) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/87 |
 | 23차시 | 2025.03.30 | dp | [동물원](https://www.acmicpc.net/problem/1309) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/89 |
 | 24차시 | 2025.05.12 | 구현 | [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/101 |
-| 25차시 | 2025.05.21 | dijkstra | [Find edges in shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/104 |
-| 26차시 | 2025.05.26 | 구현 | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479?language=java) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/106 |
 ---
