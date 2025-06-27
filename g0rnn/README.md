@@ -29,5 +29,5 @@
 | 25차시 | 2025.05.21 | dijkstra | [Find edges in shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/description/) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/104 |
 | 26차시 | 2025.05.26 | 구현 | [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479?language=java) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/106 |
 | 27차시 | 2025.06.15 | Floyd-Warshall | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/113 |
-| 28차시 | 2025.06.27 | Sliding-Window | [스터디 시간 정하기1](https://www.acmicpc.net/problem/23295) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/115 |
+| 28차시 | 2025.06.27 | BFS | [상어 중학교](https://www.acmicpc.net/problem/21609) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/115 |
 ---
