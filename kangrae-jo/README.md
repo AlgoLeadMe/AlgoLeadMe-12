@@ -28,3 +28,4 @@
 | 24차시 | 2024.04.07 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|[#95](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/95)|
 | 25차시 | 2024.04.29 |  HEAP  | [중앙값 구하기](https://www.acmicpc.net/problem/2696)|[#97](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/97)|
 | 26차시 | 2024.05.19 |  DFS  | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[#103](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/103)|
+| 27차시 | 2024.06.01 |  DFS  | [](https://www.acmicpc.net/problem/14725)|[#107](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/107)|
