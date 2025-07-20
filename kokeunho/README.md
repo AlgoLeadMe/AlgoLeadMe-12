@@ -32,5 +32,8 @@
 =======
 | 28차시 | 2025.07.01 | 구현 | [스도쿠](https://www.acmicpc.net/problem/2580) |[#116](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/116) |
 | 29차시 | 2025.07.21 | 그래프 탐색 | [불!](https://www.acmicpc.net/problem/4179) |[#118](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/118) |
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 ---
