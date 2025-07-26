@@ -28,4 +28,7 @@
 | 24차시 | 2025.04.30 | 분할 정복 | [행렬 제곱] | [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/98) |
 | 25차시 | 2025.05.11 | 그리디 알고리즘 | [팔](https://www.acmicpc.net/problem/1105) | [#100](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/100) |
 | 26차시 | 2025.05.19 | 분할 정복 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [#102](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/102) |
+| 28차시 | 2025.07.01 | 구현 | [스도쿠](https://www.acmicpc.net/problem/2580) |[#116](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/116) |
+| 29차시 | 2025.07.21 | 그래프 탐색 | [불!](https://www.acmicpc.net/problem/4179) |[#118](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/118) |
+| 30차시 | 2025.07.26 | 그래프 탐색 | [중량제한](https://www.acmicpc.net/problem/1939) |[#120](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/120) |
 ---
