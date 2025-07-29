@@ -32,4 +32,5 @@
 | 28차시 | 2025.06.27 | BFS | [상어 중학교](https://www.acmicpc.net/problem/21609) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/115 |
 | 29차시 | 2025.07.22 | combination | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/119 |
 | 30차시 | 2025.07.28 | segment-tree | [커피숍2](https://www.acmicpc.net/problem/1275) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/121 |
+
 ---
