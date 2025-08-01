@@ -61,6 +61,7 @@ def solution(storage, requests):
                                 break
             for x, y in selected:
                 grid[x][y] = 0
+            
 
     # 남은물건 개수
     count = 0
