@@ -31,4 +31,7 @@
 | 27차시 | 2025.06.15 | Floyd-Warshall | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/113 |
 | 28차시 | 2025.06.27 | BFS | [상어 중학교](https://www.acmicpc.net/problem/21609) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/115 |
 | 29차시 | 2025.07.22 | combination | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/119 |
+| 30차시 | 2025.07.28 | segment-tree | [커피숍2](https://www.acmicpc.net/problem/1275) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/121 |
+| 31차시 | 2025.08.03 | segment-tree | [음주코딩](https://www.acmicpc.net/problem/5676) | https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/127 |
+
 ---
