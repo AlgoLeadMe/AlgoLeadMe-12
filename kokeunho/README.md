@@ -32,4 +32,5 @@
 | 29차시 | 2025.07.21 | 그래프 탐색 | [불!](https://www.acmicpc.net/problem/4179) |[#118](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/118) |
 | 30차시 | 2025.07.26 | 그래프 탐색 | [중량제한](https://www.acmicpc.net/problem/1939) |[#120](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/120) |
 | 31차시 | 2025.08.03 | 그래프 탐색 | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | [#126](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/126) |
+| 33차시 | 2025.08.18 | 구현 | [수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) | [#132](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/132) |
 ---
