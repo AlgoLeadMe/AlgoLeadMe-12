@@ -33,3 +33,4 @@
 | 29차시 | 2024.06.19 |  TRIE  | [[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)|[#114](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/114)|
 | 30차시 | 2024.07.18 |  BFS  | [치즈](https://www.acmicpc.net/problem/2638)|[#117](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/117)|
 | 31차시 | 2024.07.31 |  Prefix Sum  | [두 배열의 합](https://www.acmicpc.net/problem/2143)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/122)|
+| 34차시 | 2024.08.28 |  Graph  | [웜홀](https://www.acmicpc.net/problem/1865)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/136)|
