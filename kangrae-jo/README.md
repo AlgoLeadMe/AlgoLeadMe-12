@@ -36,3 +36,4 @@
 | 32차시 | 2024.08.10 |  BFS  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|[#130](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/130)|
 | 33차시 | 2024.08.18 |  UnionFind  | [카드 게임](https://www.acmicpc.net/problem/16566)|[#133](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/133)|
 | 34차시 | 2024.08.28 |  Graph  | [웜홀](https://www.acmicpc.net/problem/1865)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/136)|
+| 35차시 | 2024.11.18 |  DP  | [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)|[#138](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/138)|
