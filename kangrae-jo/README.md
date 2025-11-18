@@ -16,24 +16,24 @@
 | 12차시 | 2024.12.24 |  HEAP  | [크리스마스 선물](https://www.acmicpc.net/problem/14235)|[#44](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/44)|
 | 13차시 | 2024.12.28 |  Graph  | [줄 세우기](https://www.acmicpc.net/problem/2252)|[#46](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/46)|
 | 14차시 | 2024.12.31 |  Two Pointer  | [두 용액](https://www.acmicpc.net/problem/2470)|[#48](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/48)|
-| 15차시 | 2024.01.11 |  구현  | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=cpp)|[#57](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/57)|
-| 16차시 | 2024.01.14 |  BinarySearch  | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|[#59](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/59)|
-| 17차시 | 2024.01.18 |  Simulation  | [충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|[#61](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/61)|
-| 18차시 | 2024.02.04 |  Queue | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[#69](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/69)|
-| 19차시 | 2024.02.11 |  Backtracking  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/72)|
-| 20차시 | 2024.02.24 |  BinarySearch  | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|[#75](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/75)|
-| 21차시 | 2024.03.01 |  HEAP  | [절댓값 힙](https://www.acmicpc.net/problem/11286)|[#80](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/80)|
-| 22차시 | 2024.03.04 |  Prefix Sum  | [체스판 다시 칠하기2](https://www.acmicpc.net/problem/25682)|[#81](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/81)|
-| 23차시 | 2024.03.25 |  HEAP  | [회전하는 큐](https://www.acmicpc.net/problem/1021)|[#88](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/88)|
-| 24차시 | 2024.04.07 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|[#95](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/95)|
-| 25차시 | 2024.04.29 |  HEAP  | [중앙값 구하기](https://www.acmicpc.net/problem/2696)|[#97](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/97)|
-| 26차시 | 2024.05.19 |  DFS  | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[#103](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/103)|
-| 27차시 | 2024.06.01 |  DFS  | [개미굴](https://www.acmicpc.net/problem/14725)|[#107](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/107)|
-| 28차시 | 2024.06.10 |  BFS  | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|[#110](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/110)|
-| 29차시 | 2024.06.19 |  TRIE  | [[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)|[#114](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/114)|
-| 30차시 | 2024.07.18 |  BFS  | [치즈](https://www.acmicpc.net/problem/2638)|[#117](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/117)|
-| 31차시 | 2024.07.31 |  Prefix Sum  | [두 배열의 합](https://www.acmicpc.net/problem/2143)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/122)|
-| 32차시 | 2024.08.10 |  BFS  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|[#130](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/130)|
-| 33차시 | 2024.08.18 |  UnionFind  | [카드 게임](https://www.acmicpc.net/problem/16566)|[#133](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/133)|
-| 34차시 | 2024.08.28 |  Graph  | [웜홀](https://www.acmicpc.net/problem/1865)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/136)|
-| 35차시 | 2024.11.18 |  DP  | [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)|[#138](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/138)|
+| 15차시 | 2025.01.11 |  구현  | [동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213?language=cpp)|[#57](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/57)|
+| 16차시 | 2025.01.14 |  BinarySearch  | [퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|[#59](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/59)|
+| 17차시 | 2025.01.18 |  Simulation  | [충돌 위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|[#61](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/61)|
+| 18차시 | 2025.02.04 |  Queue | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[#69](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/69)|
+| 19차시 | 2025.02.11 |  Backtracking  | [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/72)|
+| 20차시 | 2025.02.24 |  BinarySearch  | [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|[#75](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/75)|
+| 21차시 | 2025.03.01 |  HEAP  | [절댓값 힙](https://www.acmicpc.net/problem/11286)|[#80](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/80)|
+| 22차시 | 2025.03.04 |  Prefix Sum  | [체스판 다시 칠하기2](https://www.acmicpc.net/problem/25682)|[#81](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/81)|
+| 23차시 | 2025.03.25 |  HEAP  | [회전하는 큐](https://www.acmicpc.net/problem/1021)|[#88](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/88)|
+| 24차시 | 2025.04.07 |  DP  | [동전 1](https://www.acmicpc.net/problem/2293)|[#95](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/95)|
+| 25차시 | 2025.04.29 |  HEAP  | [중앙값 구하기](https://www.acmicpc.net/problem/2696)|[#97](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/97)|
+| 26차시 | 2025.05.19 |  DFS  | [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892)|[#103](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/103)|
+| 27차시 | 2025.06.01 |  DFS  | [개미굴](https://www.acmicpc.net/problem/14725)|[#107](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/107)|
+| 28차시 | 2025.06.10 |  BFS  | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|[#110](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/110)|
+| 29차시 | 2025.06.19 |  TRIE  | [[3차] 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)|[#114](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/114)|
+| 30차시 | 2025.07.18 |  BFS  | [치즈](https://www.acmicpc.net/problem/2638)|[#117](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/117)|
+| 31차시 | 2025.07.31 |  Prefix Sum  | [두 배열의 합](https://www.acmicpc.net/problem/2143)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/122)|
+| 32차시 | 2025.08.10 |  BFS  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|[#130](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/130)|
+| 33차시 | 2025.08.18 |  UnionFind  | [카드 게임](https://www.acmicpc.net/problem/16566)|[#133](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/133)|
+| 34차시 | 2025.08.28 |  Graph  | [웜홀](https://www.acmicpc.net/problem/1865)|[#122](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/136)|
+| 35차시 | 2025.11.18 |  DP  | [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832)|[#138](https://github.com/AlgoLeadMe/AlgoLeadMe-12/pull/138)|
